@@ -1,5 +1,4 @@
 #Author:Shreyas Mohan
-#StudentId:1001669806
 
 import sys
 import random
