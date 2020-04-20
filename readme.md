@@ -2,7 +2,9 @@
 To generate simulated samples from a given distribution by using samples generated from a Standard Uniform Distribution (Random Number Generator).
 
 Name:Shreyas Mohan
+
 Language- Python
+
 Source File- distribution.py
 
 **Syntax- python distribution.py <numberOfSamples> <distribution_name> <parameters>**
